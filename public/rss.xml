@@ -1,0 +1,125 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+    
+
+    
+        
+    
+
+
+
+
+
+
+
+
+
+
+
+
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"  xml:lang="en-us"  xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        
+            
+
+            
+                
+            
+
+            
+                <link href="http://localhost:1313/" rel="self" type="text/html"/>
+            
+        
+            
+
+            
+
+            
+                <link href="http://localhost:1313/rss.xml" rel="alternate" type="application/rss+xml"/>
+            
+        
+
+        
+
+        
+
+        <description>Recent content</description>
+
+        
+            <language>en-us</language>
+        
+
+        
+            <lastBuildDate>2024-09-09 13:32:11 +1000 AEST</lastBuildDate>
+        
+
+        <link>http://localhost:1313/</link>
+
+        
+
+        <title>My New Hugo Site</title>
+
+        
+
+        
+            <item>
+                
+                
+                
+                
+                
+                
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+                
+
+                
+
+                
+
+                
+                    <description><![CDATA[<p>test run to see if content displays</p>
+]]></description>
+                
+
+                <guid isPermaLink="false">tag:localhost:1313,2024-09-09:/posts/firstpost/</guid>
+
+                
+                    <link>http://localhost:1313/posts/firstpost/</link>
+                
+
+                
+                    <pubDate>Mon, 09 Sep 2024 13:32:11 AEST</pubDate>
+                
+
+                
+                    <title>Testing</title>
+                
+            </item>
+        
+    </channel>
+</rss>
